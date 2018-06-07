@@ -478,3 +478,7 @@ a {
   color: #fed136;
   font-family: 'Raleway', sans-serif;
 }
+.service-heading {
+  margin: 15px 0;
+  text-transform: none;
+}
